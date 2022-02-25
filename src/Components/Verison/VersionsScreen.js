@@ -43,7 +43,7 @@ export const VersionsScreen = () => {
 
   return (
     <div>
-      <PageHeader title='Agrega una nueva App' style={{ display: 'flex', justifyContent: 'center' }} />
+      <PageHeader title='Agrega una nueva version a una App' style={{ display: 'flex', justifyContent: 'center' }} />
       <Breadcrumb style={{ margin: '16px' }}>
         <Breadcrumb.Item href='/' >
           <span>Inicio</span>
